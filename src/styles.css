@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: rgb(0, 140, 145);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
