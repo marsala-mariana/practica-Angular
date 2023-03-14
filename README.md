@@ -1,4 +1,7 @@
 # PracticaAngular
+![Captura de pantalla 2023-03-11 163431](https://user-images.githubusercontent.com/101590740/224508960-7dce97d0-2ace-4f5e-bd10-640c2421ec08.jpg)
+![Captura de pantalla 2023-03-11 163453](https://user-images.githubusercontent.com/101590740/224509014-b1f0685a-7639-42a4-bd55-6ef81c6d76e1.jpg)
+![Captura de pantalla 2023-03-11 163537](https://user-images.githubusercontent.com/101590740/224509022-64c5fb03-c750-4b2a-8c55-53d609110205.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
